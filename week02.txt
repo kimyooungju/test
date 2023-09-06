@@ -16,3 +16,6 @@ week02
   git log
   git checkout hashcode
   git cheackout -
+  git branch -M main
+  git remote add origin https://github.com/kimyooungju/test.git
+  git push -u origin main
